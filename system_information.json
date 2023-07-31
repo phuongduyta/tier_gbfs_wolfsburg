@@ -1,5 +1,5 @@
 {
-  "last_updated": 1690821273,
+  "last_updated": 1690821382,
   "ttl": 1800,
   "version": "2.3",
   "data": {
@@ -9,10 +9,12 @@
     "timezone": "Europe/Berlin",
     "rental_apps": {
       "android": {
-        "discovery_uri": "com.example.android://"
+        "discovery_uri": "com.example.android://",
+        "store_uri": "https://play.google.com/store/apps/details?id=com.example.android"
       },
       "ios": {
-        "discovery_uri": "com.example.ios://"
+        "discovery_uri": "com.example.ios://",
+        "store_uri": "https://apps.apple.com/app/apple-store/id123456789"
       }
     }
   }
