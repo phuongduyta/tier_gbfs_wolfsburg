@@ -1,0 +1,11 @@
+{
+  "last_updated": 1690803923,
+  "ttl": 1800,
+  "version": "2.3",
+  "data": {
+    "system_id": "TIER_Wolsburg",
+    "language": "en",
+    "name": "TIER Escooter Wolfsburg",
+    "timezone": "Europe/Berlin"
+  }
+}
