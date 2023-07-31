@@ -7,15 +7,15 @@
       "feeds": [
         {
           "name": "system_information",
-          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/system_information.json"
+          "url": "https://raw.githubusercontent.com/phuongduyta/tier_gbfs_wolfsburg/main/system_information.json"
         },
         {
           "name": "free_bike_status",
-          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/free_bike_status.json"
+          "url": "https://raw.githubusercontent.com/phuongduyta/tier_gbfs_wolfsburg/main/free_bike_status.json"
         },
         {
           "name": "vehicle_types",
-          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/vehicle_types.json"
+          "url": "https://raw.githubusercontent.com/phuongduyta/tier_gbfs_wolfsburg/main/vehicle_types.json"
         }
       ]
     }
