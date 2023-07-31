@@ -1,0 +1,23 @@
+{
+  "last_updated": 1690803922,
+  "ttl": 0,
+  "version": "2.3",
+  "data": {
+    "en": {
+      "feeds": [
+        {
+          "name": "system_information",
+          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/system_information.json"
+        },
+        {
+          "name": "free_bike_status",
+          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/free_bike_status.json"
+        },
+        {
+          "name": "vehicle_types",
+          "url": "https://github.com/phuongduyta/tier_gbfs_wolfsburg/blob/main/vehicle_types.json"
+        }
+      ]
+    }
+  }
+}
