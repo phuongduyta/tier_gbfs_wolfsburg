@@ -1,11 +1,19 @@
 {
-  "last_updated": 1690803923,
+  "last_updated": 1690821273,
   "ttl": 1800,
   "version": "2.3",
   "data": {
     "system_id": "TIER_Wolsburg",
     "language": "en",
     "name": "TIER Escooter Wolfsburg",
-    "timezone": "Europe/Berlin"
+    "timezone": "Europe/Berlin",
+    "rental_apps": {
+      "android": {
+        "discovery_uri": "com.example.android://"
+      },
+      "ios": {
+        "discovery_uri": "com.example.ios://"
+      }
+    }
   }
 }

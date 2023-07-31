@@ -1,5 +1,5 @@
 {
-  "last_updated": 1690803923,
+  "last_updated": 1690821273,
   "ttl": 0,
   "version": "2.3",
   "data": {
@@ -8,7 +8,8 @@
         "vehicle_type_id": "okai_escooter",
         "form_factor": "scooter_standing",
         "propulsion_type": "electric",
-        "make": "okai"
+        "make": "okai",
+        "max_range_meters": 46
       }
     ]
   }
