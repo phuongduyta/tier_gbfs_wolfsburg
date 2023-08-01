@@ -1,5 +1,5 @@
 {
-  "last_updated": 1690884310,
+  "last_updated": 1690884613,
   "ttl": 0,
   "version": "2.3",
   "data": {
@@ -75,8 +75,22 @@
         }
       },
       {
+        "bike_id": "30304e6f-f723-425f-8428-74c088650a4f",
+        "last_reported": 1690884465,
+        "current_range_meters": 20000,
+        "lat": 52.445069,
+        "lon": 10.807714,
+        "is_reserved": false,
+        "is_disabled": false,
+        "vehicle_type_id": "okai_escooter",
+        "rental_uris": {
+          "android": "https://www.example.com/app?bike_id=30304e6f-f723-425f-8428-74c088650a4f&platform=android&",
+          "ios": "https://www.example.com/app?bike_id=30304e6f-f723-425f-8428-74c088650a4f&platform=ios"
+        }
+      },
+      {
         "bike_id": "e7e58c7c-e882-4c04-9445-bbd0bf90b424",
-        "last_reported": 1690884155,
+        "last_reported": 1690884395,
         "current_range_meters": 42000,
         "lat": 52.428346,
         "lon": 10.791354,
@@ -160,7 +174,7 @@
       },
       {
         "bike_id": "cd26b3a4-0646-4be5-95a6-49b03c645416",
-        "last_reported": 1690883576,
+        "last_reported": 1690884536,
         "current_range_meters": 41000,
         "lat": 52.411448,
         "lon": 10.718119,
@@ -454,10 +468,10 @@
       },
       {
         "bike_id": "b11e1cbe-f57a-40a0-a846-45c8fd00e13f",
-        "last_reported": 1690884285,
+        "last_reported": 1690884524,
         "current_range_meters": 24000,
-        "lat": 52.4237,
-        "lon": 10.784398,
+        "lat": 52.423757,
+        "lon": 10.784425,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -580,7 +594,7 @@
       },
       {
         "bike_id": "03756511-a272-4897-a3ed-0b282a2d3497",
-        "last_reported": 1690882417,
+        "last_reported": 1690884577,
         "current_range_meters": 22000,
         "lat": 52.419126,
         "lon": 10.788487,
@@ -594,7 +608,7 @@
       },
       {
         "bike_id": "29015e1d-643c-4427-95f0-5efd38ba3e9f",
-        "last_reported": 1690882685,
+        "last_reported": 1690884365,
         "current_range_meters": 43000,
         "lat": 52.42105,
         "lon": 10.783131,
@@ -678,7 +692,7 @@
       },
       {
         "bike_id": "2e24819e-440a-4e01-ab48-29fd638c6ccd",
-        "last_reported": 1690883307,
+        "last_reported": 1690884508,
         "current_range_meters": 34000,
         "lat": 52.425782,
         "lon": 10.790484,
@@ -692,7 +706,7 @@
       },
       {
         "bike_id": "fc3e89f6-dc83-4d06-90e3-ac1514c5bb4d",
-        "last_reported": 1690882836,
+        "last_reported": 1690884518,
         "current_range_meters": 45000,
         "lat": 52.421297,
         "lon": 10.82151,
@@ -706,7 +720,7 @@
       },
       {
         "bike_id": "b09afe81-48ca-499a-b7c6-620755a5ec9c",
-        "last_reported": 1690884091,
+        "last_reported": 1690884572,
         "current_range_meters": 13000,
         "lat": 52.428615,
         "lon": 10.787446,
@@ -762,7 +776,7 @@
       },
       {
         "bike_id": "1e6a1321-cb92-45d1-8ab0-06316dec20c5",
-        "last_reported": 1690882546,
+        "last_reported": 1690884466,
         "current_range_meters": 27000,
         "lat": 52.403848,
         "lon": 10.723729,
@@ -776,10 +790,10 @@
       },
       {
         "bike_id": "25043a8a-286a-4fcb-801e-467b74142a70",
-        "last_reported": 1690884247,
+        "last_reported": 1690884487,
         "current_range_meters": 20000,
-        "lat": 52.422496,
-        "lon": 10.799231,
+        "lat": 52.422515,
+        "lon": 10.799288,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -804,7 +818,7 @@
       },
       {
         "bike_id": "c7910967-7d68-4938-8e3f-f02abb4cf903",
-        "last_reported": 1690882585,
+        "last_reported": 1690884506,
         "current_range_meters": 42000,
         "lat": 52.428796,
         "lon": 10.756488,
@@ -832,10 +846,10 @@
       },
       {
         "bike_id": "22410aaf-5f12-480f-809b-6ad9f96e1d08",
-        "last_reported": 1690882783,
+        "last_reported": 1690884529,
         "current_range_meters": 44000,
-        "lat": 52.424335,
-        "lon": 10.790378,
+        "lat": 52.424253,
+        "lon": 10.790835,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -930,7 +944,7 @@
       },
       {
         "bike_id": "7bab5c50-f8e7-451c-bbd0-649041683591",
-        "last_reported": 1690882323,
+        "last_reported": 1690884483,
         "current_range_meters": 11000,
         "lat": 52.401557,
         "lon": 10.751715,
@@ -972,7 +986,7 @@
       },
       {
         "bike_id": "0f2c4002-2f8c-443a-a7a0-95529af81f0f",
-        "last_reported": 1690883550,
+        "last_reported": 1690884510,
         "current_range_meters": 19000,
         "lat": 52.410569,
         "lon": 10.76634,
@@ -1070,7 +1084,7 @@
       },
       {
         "bike_id": "882f8c27-d9ce-4318-88b4-a1b80d76767c",
-        "last_reported": 1690882635,
+        "last_reported": 1690884315,
         "current_range_meters": 9000,
         "lat": 52.425426,
         "lon": 10.820619,
@@ -1084,7 +1098,7 @@
       },
       {
         "bike_id": "47e1b520-34ce-4e2b-bbdc-86f22b4c7d28",
-        "last_reported": 1690883667,
+        "last_reported": 1690884387,
         "current_range_meters": 19000,
         "lat": 52.398668,
         "lon": 10.753056,
@@ -1140,7 +1154,7 @@
       },
       {
         "bike_id": "766eb6bb-47ba-4e3e-91d6-ad8c0558fe7e",
-        "last_reported": 1690884012,
+        "last_reported": 1690884493,
         "current_range_meters": 43000,
         "lat": 52.405641,
         "lon": 10.740902,
@@ -1154,10 +1168,10 @@
       },
       {
         "bike_id": "574c4fd4-361b-4356-9b1b-e680873b5ae6",
-        "last_reported": 1690884123,
+        "last_reported": 1690884363,
         "current_range_meters": 10000,
-        "lat": 52.422808,
-        "lon": 10.807592,
+        "lat": 52.422811,
+        "lon": 10.807604,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -1196,7 +1210,7 @@
       },
       {
         "bike_id": "73dcd417-41b6-4005-b9f1-f2703cde1317",
-        "last_reported": 1690882640,
+        "last_reported": 1690884560,
         "current_range_meters": 46000,
         "lat": 52.447034,
         "lon": 10.826585,
@@ -1224,7 +1238,7 @@
       },
       {
         "bike_id": "d46261ee-3b6a-421b-a130-1b006232381e",
-        "last_reported": 1690882311,
+        "last_reported": 1690884472,
         "current_range_meters": 46000,
         "lat": 52.414289,
         "lon": 10.841806,
@@ -1280,7 +1294,7 @@
       },
       {
         "bike_id": "3f2d853a-e153-422a-9a2d-89bdbb775b6e",
-        "last_reported": 1690882328,
+        "last_reported": 1690884487,
         "current_range_meters": 33000,
         "lat": 52.423701,
         "lon": 10.776318,
@@ -1434,7 +1448,7 @@
       },
       {
         "bike_id": "c20cf20a-c980-4c8f-9ab3-7f02031d256a",
-        "last_reported": 1690882486,
+        "last_reported": 1690884407,
         "current_range_meters": 8000,
         "lat": 52.413214,
         "lon": 10.84266,
@@ -1477,7 +1491,7 @@
       {
         "bike_id": "a778d375-f36e-46a4-ae9b-0cfcf8e5d19c",
         "last_reported": 1690884235,
-        "current_range_meters": 4000,
+        "current_range_meters": 3000,
         "lat": 52.420205,
         "lon": 10.840546,
         "is_reserved": false,
@@ -1518,7 +1532,7 @@
       },
       {
         "bike_id": "db1a0577-b13f-454e-9f11-1dce3940158a",
-        "last_reported": 1690882908,
+        "last_reported": 1690884588,
         "current_range_meters": 21000,
         "lat": 52.42796,
         "lon": 10.789999,
@@ -1574,10 +1588,10 @@
       },
       {
         "bike_id": "af853e6f-5696-4fa9-ab82-335fea16cf01",
-        "last_reported": 1690884198,
+        "last_reported": 1690884438,
         "current_range_meters": 46000,
-        "lat": 52.418332,
-        "lon": 10.78642,
+        "lat": 52.418397,
+        "lon": 10.786311,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -1630,10 +1644,10 @@
       },
       {
         "bike_id": "c6e7bc2e-df9e-4f7f-9be6-b66095e44499",
-        "last_reported": 1690884229,
+        "last_reported": 1690884469,
         "current_range_meters": 11000,
-        "lat": 52.424861,
-        "lon": 10.725868,
+        "lat": 52.424859,
+        "lon": 10.725884,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -1658,7 +1672,7 @@
       },
       {
         "bike_id": "486ef1e2-4b73-48bc-b1d3-ade4b52f9d0a",
-        "last_reported": 1690883309,
+        "last_reported": 1690884509,
         "current_range_meters": 41000,
         "lat": 52.41839,
         "lon": 10.84281,
@@ -1742,10 +1756,10 @@
       },
       {
         "bike_id": "6a38fd3c-d848-40fa-8612-fa187985b99d",
-        "last_reported": 1690884240,
+        "last_reported": 1690884479,
         "current_range_meters": 21000,
-        "lat": 52.435412,
-        "lon": 10.812632,
+        "lat": 52.435414,
+        "lon": 10.812626,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -1826,7 +1840,7 @@
       },
       {
         "bike_id": "f19436d4-4c6f-4b3e-93aa-c83c56e65ef0",
-        "last_reported": 1690882435,
+        "last_reported": 1690884595,
         "current_range_meters": 46000,
         "lat": 52.400768,
         "lon": 10.752695,
@@ -1882,7 +1896,7 @@
       },
       {
         "bike_id": "fe9e8486-2b06-442b-80d2-812149074884",
-        "last_reported": 1690882439,
+        "last_reported": 1690884599,
         "current_range_meters": 32000,
         "lat": 52.401283,
         "lon": 10.75224,
@@ -1896,7 +1910,7 @@
       },
       {
         "bike_id": "08ec8da0-572e-4fd1-b79f-caee16ebe82f",
-        "last_reported": 1690882660,
+        "last_reported": 1690884580,
         "current_range_meters": 46000,
         "lat": 52.442966,
         "lon": 10.821607,
@@ -1938,7 +1952,7 @@
       },
       {
         "bike_id": "54cbf5ca-7739-4735-b001-e0a739c24c6a",
-        "last_reported": 1690882341,
+        "last_reported": 1690884502,
         "current_range_meters": 16000,
         "lat": 52.418964,
         "lon": 10.800709,
@@ -2148,7 +2162,7 @@
       },
       {
         "bike_id": "2e9cd72b-ce4b-4acc-893b-0539f574a862",
-        "last_reported": 1690882263,
+        "last_reported": 1690884423,
         "current_range_meters": 17000,
         "lat": 52.427171,
         "lon": 10.78327,
@@ -2260,7 +2274,7 @@
       },
       {
         "bike_id": "3fd709e5-42f2-4a92-be2d-d5b2b995e654",
-        "last_reported": 1690882668,
+        "last_reported": 1690884588,
         "current_range_meters": 24000,
         "lat": 52.4209,
         "lon": 10.749872,
@@ -2330,7 +2344,7 @@
       },
       {
         "bike_id": "e5723605-0e68-4848-a890-772dcb9e01bb",
-        "last_reported": 1690882691,
+        "last_reported": 1690884371,
         "current_range_meters": 42000,
         "lat": 52.404181,
         "lon": 10.742578,
@@ -2400,7 +2414,7 @@
       },
       {
         "bike_id": "6dd17e3b-83de-45e7-ba0d-66a91eac4186",
-        "last_reported": 1690884206,
+        "last_reported": 1690884446,
         "current_range_meters": 22000,
         "lat": 52.401676,
         "lon": 10.82837,
@@ -2428,7 +2442,7 @@
       },
       {
         "bike_id": "3ef32669-caa8-47c1-921d-825a89cbde54",
-        "last_reported": 1690882838,
+        "last_reported": 1690884518,
         "current_range_meters": 38000,
         "lat": 52.427962,
         "lon": 10.814873,
@@ -2456,7 +2470,7 @@
       },
       {
         "bike_id": "1191172d-ae8b-44a0-b7aa-50d1eb53c6cf",
-        "last_reported": 1690882259,
+        "last_reported": 1690884419,
         "current_range_meters": 42000,
         "lat": 52.393185,
         "lon": 10.832458,
@@ -2484,7 +2498,7 @@
       },
       {
         "bike_id": "4becea3c-e2d1-4d90-a7ad-e4a526e3b641",
-        "last_reported": 1690882608,
+        "last_reported": 1690884529,
         "current_range_meters": 34000,
         "lat": 52.442669,
         "lon": 10.818478,
@@ -2512,7 +2526,7 @@
       },
       {
         "bike_id": "2cf7e79d-1d1a-4246-a285-9e15bf67b5c8",
-        "last_reported": 1690882887,
+        "last_reported": 1690884566,
         "current_range_meters": 18000,
         "lat": 52.415288,
         "lon": 10.832602,
@@ -2540,7 +2554,7 @@
       },
       {
         "bike_id": "c6a63c99-721b-45c9-82ac-ca201205b0b7",
-        "last_reported": 1690882648,
+        "last_reported": 1690884328,
         "current_range_meters": 21000,
         "lat": 52.39681,
         "lon": 10.73897,
@@ -2624,7 +2638,7 @@
       },
       {
         "bike_id": "bb9c5b23-71b3-4cc2-ae12-f28a2e1d877e",
-        "last_reported": 1690884093,
+        "last_reported": 1690884573,
         "current_range_meters": 24000,
         "lat": 52.42167,
         "lon": 10.774025,
@@ -2680,7 +2694,7 @@
       },
       {
         "bike_id": "6443dc27-ffba-4c17-8db8-7a4534c87439",
-        "last_reported": 1690882583,
+        "last_reported": 1690884501,
         "current_range_meters": 4000,
         "lat": 52.430225,
         "lon": 10.850512,
@@ -2750,7 +2764,7 @@
       },
       {
         "bike_id": "d212e802-3711-4b86-8c5f-4f2d199ee6a2",
-        "last_reported": 1690882408,
+        "last_reported": 1690884567,
         "current_range_meters": 14000,
         "lat": 52.418308,
         "lon": 10.849666,
@@ -2778,7 +2792,7 @@
       },
       {
         "bike_id": "88eb7780-cfc5-4776-af91-428fd30d3552",
-        "last_reported": 1690882649,
+        "last_reported": 1690884569,
         "current_range_meters": 42000,
         "lat": 52.428484,
         "lon": 10.814749,
@@ -2792,7 +2806,7 @@
       },
       {
         "bike_id": "f1a0d6fd-6d33-4faa-bb34-8b37c7c38621",
-        "last_reported": 1690882584,
+        "last_reported": 1690884504,
         "current_range_meters": 11000,
         "lat": 52.401235,
         "lon": 10.751687,
@@ -2806,7 +2820,7 @@
       },
       {
         "bike_id": "bdf63e73-ece0-4500-b370-20dd96e4b1cd",
-        "last_reported": 1690884060,
+        "last_reported": 1690884540,
         "current_range_meters": 42000,
         "lat": 52.422415,
         "lon": 10.769633,
@@ -2834,7 +2848,7 @@
       },
       {
         "bike_id": "26a3c131-82ae-4306-a31a-cd108c302ca2",
-        "last_reported": 1690883497,
+        "last_reported": 1690884457,
         "current_range_meters": 6000,
         "lat": 52.448229,
         "lon": 10.774972,
@@ -2946,7 +2960,7 @@
       },
       {
         "bike_id": "81064914-4c32-4c7a-bc59-f896a05e510d",
-        "last_reported": 1690883590,
+        "last_reported": 1690884551,
         "current_range_meters": 10000,
         "lat": 52.399609,
         "lon": 10.745356,
@@ -2960,7 +2974,7 @@
       },
       {
         "bike_id": "d4c55ef4-2773-45b2-ad1d-aff9f99f1c5d",
-        "last_reported": 1690882943,
+        "last_reported": 1690884384,
         "current_range_meters": 44000,
         "lat": 52.442932,
         "lon": 10.834337,
@@ -3030,7 +3044,7 @@
       },
       {
         "bike_id": "20be9310-7e52-4479-af1d-3b62237270cc",
-        "last_reported": 1690882505,
+        "last_reported": 1690884426,
         "current_range_meters": 40000,
         "lat": 52.392122,
         "lon": 10.850955,
@@ -3044,7 +3058,7 @@
       },
       {
         "bike_id": "19b75e38-2ec4-4767-b1c4-ea4c01c31258",
-        "last_reported": 1690882635,
+        "last_reported": 1690884315,
         "current_range_meters": 18000,
         "lat": 52.436742,
         "lon": 10.814186,
@@ -3072,7 +3086,7 @@
       },
       {
         "bike_id": "1cd34595-b3c5-4b53-8821-746380bc05d3",
-        "last_reported": 1690884114,
+        "last_reported": 1690884595,
         "current_range_meters": 13000,
         "lat": 52.403099,
         "lon": 10.737215,
@@ -3086,10 +3100,10 @@
       },
       {
         "bike_id": "77e9b804-4a3f-4693-b9f7-877a45a8aae9",
-        "last_reported": 1690883598,
+        "last_reported": 1690884557,
         "current_range_meters": 15000,
-        "lat": 52.424205,
-        "lon": 10.802478,
+        "lat": 52.424245,
+        "lon": 10.802206,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -3184,7 +3198,7 @@
       },
       {
         "bike_id": "2f260842-769a-47cb-b67e-e5864f665873",
-        "last_reported": 1690882701,
+        "last_reported": 1690884381,
         "current_range_meters": 15000,
         "lat": 52.428748,
         "lon": 10.787298,
@@ -3282,10 +3296,10 @@
       },
       {
         "bike_id": "6d4ad473-d851-4591-8f69-5bdf9eff0967",
-        "last_reported": 1690884236,
+        "last_reported": 1690884466,
         "current_range_meters": 29000,
-        "lat": 52.428764,
-        "lon": 10.787068,
+        "lat": 52.428783,
+        "lon": 10.7872,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -3436,7 +3450,7 @@
       },
       {
         "bike_id": "f250a48b-3e92-4059-857b-0020f64e9a87",
-        "last_reported": 1690883824,
+        "last_reported": 1690884543,
         "current_range_meters": 36000,
         "lat": 52.424716,
         "lon": 10.766025,
@@ -3450,10 +3464,10 @@
       },
       {
         "bike_id": "8c5f49e3-296e-43f3-bcc4-ac9bc7485954",
-        "last_reported": 1690884097,
+        "last_reported": 1690884577,
         "current_range_meters": 46000,
-        "lat": 52.410849,
-        "lon": 10.750947,
+        "lat": 52.410882,
+        "lon": 10.751027,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -3464,7 +3478,7 @@
       },
       {
         "bike_id": "b7e11e6e-a8b1-4bd8-8002-c383ec3130c9",
-        "last_reported": 1690884216,
+        "last_reported": 1690884457,
         "current_range_meters": 17000,
         "lat": 52.394858,
         "lon": 10.751056,
@@ -3492,7 +3506,7 @@
       },
       {
         "bike_id": "b19c047c-eb88-4c99-9b55-a7214cf09b36",
-        "last_reported": 1690882410,
+        "last_reported": 1690884330,
         "current_range_meters": 9000,
         "lat": 52.425993,
         "lon": 10.782706,
@@ -3632,7 +3646,7 @@
       },
       {
         "bike_id": "992b25c8-8c2f-437a-b7c9-75e37230e2a1",
-        "last_reported": 1690882847,
+        "last_reported": 1690884527,
         "current_range_meters": 6000,
         "lat": 52.420478,
         "lon": 10.809421,
@@ -3674,7 +3688,7 @@
       },
       {
         "bike_id": "031430cf-c9f1-41c6-a20b-ad67e1a445f6",
-        "last_reported": 1690882919,
+        "last_reported": 1690884599,
         "current_range_meters": 24000,
         "lat": 52.416721,
         "lon": 10.788366,
@@ -3688,7 +3702,7 @@
       },
       {
         "bike_id": "876508ca-9970-454d-9bfd-f5d486326533",
-        "last_reported": 1690882741,
+        "last_reported": 1690884421,
         "current_range_meters": 43000,
         "lat": 52.397106,
         "lon": 10.73898,
@@ -3800,7 +3814,7 @@
       },
       {
         "bike_id": "f88e80e8-3f28-4283-8c42-0a6ece7bdc5f",
-        "last_reported": 1690882415,
+        "last_reported": 1690884336,
         "current_range_meters": 46000,
         "lat": 52.408505,
         "lon": 10.739853,
@@ -3842,7 +3856,7 @@
       },
       {
         "bike_id": "0850cc2e-8c44-418f-8796-a51e5811c524",
-        "last_reported": 1690882400,
+        "last_reported": 1690884320,
         "current_range_meters": 39000,
         "lat": 52.420162,
         "lon": 10.757942,
@@ -3856,7 +3870,7 @@
       },
       {
         "bike_id": "b0482167-4be9-45a0-b032-11cf52a49209",
-        "last_reported": 1690884233,
+        "last_reported": 1690884474,
         "current_range_meters": 19000,
         "lat": 52.411992,
         "lon": 10.761762,
@@ -3968,7 +3982,7 @@
       },
       {
         "bike_id": "13449c05-e542-4c8a-84b7-78a8dd28ba04",
-        "last_reported": 1690882821,
+        "last_reported": 1690884501,
         "current_range_meters": 34000,
         "lat": 52.41985,
         "lon": 10.754814,
@@ -4024,7 +4038,7 @@
       },
       {
         "bike_id": "f708ed6b-80b9-4005-9699-af8f9669b9cf",
-        "last_reported": 1690882639,
+        "last_reported": 1690884320,
         "current_range_meters": 15000,
         "lat": 52.41916,
         "lon": 10.809967,
@@ -4136,10 +4150,10 @@
       },
       {
         "bike_id": "2fb50132-df7e-49b1-bb18-fd5b15e08a4a",
-        "last_reported": 1690884270,
+        "last_reported": 1690884509,
         "current_range_meters": 45000,
-        "lat": 52.435524,
-        "lon": 10.796979,
+        "lat": 52.435523,
+        "lon": 10.796976,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -4150,7 +4164,7 @@
       },
       {
         "bike_id": "da5c17b1-7b7f-4f99-a2d0-e6e0c8c674b2",
-        "last_reported": 1690884103,
+        "last_reported": 1690884344,
         "current_range_meters": 21000,
         "lat": 52.426388,
         "lon": 10.782651,
@@ -4178,7 +4192,7 @@
       },
       {
         "bike_id": "60b8ae3e-13ca-4ea4-997d-dc777e46abd2",
-        "last_reported": 1690883940,
+        "last_reported": 1690884419,
         "current_range_meters": 41000,
         "lat": 52.401307,
         "lon": 10.751585,
@@ -4248,7 +4262,7 @@
       },
       {
         "bike_id": "1a520e4c-bd7f-4e69-ad24-1f4b0377f838",
-        "last_reported": 1690882691,
+        "last_reported": 1690884611,
         "current_range_meters": 33000,
         "lat": 52.440973,
         "lon": 10.807656,
@@ -4262,10 +4276,10 @@
       },
       {
         "bike_id": "fd65ccca-507a-4a53-81f4-e8cb6f3e8fea",
-        "last_reported": 1690884243,
+        "last_reported": 1690884482,
         "current_range_meters": 20000,
-        "lat": 52.427733,
-        "lon": 10.790215,
+        "lat": 52.427743,
+        "lon": 10.79015,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -4276,7 +4290,7 @@
       },
       {
         "bike_id": "d73c3b6b-bb61-477f-95b2-bdc06a4b02e7",
-        "last_reported": 1690883837,
+        "last_reported": 1690884557,
         "current_range_meters": 28000,
         "lat": 52.425034,
         "lon": 10.792488,
@@ -4332,7 +4346,7 @@
       },
       {
         "bike_id": "f255f0c0-8735-490a-9a8d-cf297f85a3df",
-        "last_reported": 1690882670,
+        "last_reported": 1690884590,
         "current_range_meters": 43000,
         "lat": 52.397661,
         "lon": 10.83503,
@@ -4374,7 +4388,7 @@
       },
       {
         "bike_id": "601ccd00-47bb-4253-b776-a43b88155ac5",
-        "last_reported": 1690882406,
+        "last_reported": 1690884567,
         "current_range_meters": 32000,
         "lat": 52.400595,
         "lon": 10.752407,
@@ -4430,7 +4444,7 @@
       },
       {
         "bike_id": "260c27a9-c740-4b13-80f0-e5b0196a29d2",
-        "last_reported": 1690882663,
+        "last_reported": 1690884583,
         "current_range_meters": 45000,
         "lat": 52.413336,
         "lon": 10.71345,
@@ -4472,7 +4486,7 @@
       },
       {
         "bike_id": "d2faf0d9-6cda-4f36-be7e-b477ad32d815",
-        "last_reported": 1690884211,
+        "last_reported": 1690884452,
         "current_range_meters": 38000,
         "lat": 52.400251,
         "lon": 10.740021,
@@ -4514,7 +4528,7 @@
       },
       {
         "bike_id": "460be675-278c-428b-b313-57544635a845",
-        "last_reported": 1690882662,
+        "last_reported": 1690884342,
         "current_range_meters": 31000,
         "lat": 52.422089,
         "lon": 10.743997,
@@ -4584,10 +4598,10 @@
       },
       {
         "bike_id": "06c43d9d-5dc6-4b3a-81b2-ee67bdb7cdbd",
-        "last_reported": 1690884276,
+        "last_reported": 1690884516,
         "current_range_meters": 7000,
-        "lat": 52.402657,
-        "lon": 10.734994,
+        "lat": 52.402615,
+        "lon": 10.734935,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -4640,7 +4654,7 @@
       },
       {
         "bike_id": "db2d8880-083a-4d4c-b2e7-caca58df5906",
-        "last_reported": 1690884183,
+        "last_reported": 1690884423,
         "current_range_meters": 26000,
         "lat": 52.450667,
         "lon": 10.805545,
@@ -4710,7 +4724,7 @@
       },
       {
         "bike_id": "94d11ec5-b932-494c-9e2d-9b836d4b0ebe",
-        "last_reported": 1690882677,
+        "last_reported": 1690884597,
         "current_range_meters": 22000,
         "lat": 52.42835,
         "lon": 10.763122,
@@ -4822,7 +4836,7 @@
       },
       {
         "bike_id": "6cb366d7-59ec-48ac-8078-f13af3e54230",
-        "last_reported": 1690883642,
+        "last_reported": 1690884602,
         "current_range_meters": 27000,
         "lat": 52.418908,
         "lon": 10.787974,
@@ -4836,7 +4850,7 @@
       },
       {
         "bike_id": "4f8d0c9a-2659-4589-8714-2316a140ea7f",
-        "last_reported": 1690882419,
+        "last_reported": 1690884580,
         "current_range_meters": 39000,
         "lat": 52.428314,
         "lon": 10.814823,
@@ -4864,7 +4878,7 @@
       },
       {
         "bike_id": "57f66753-387e-462b-92d8-0652678a34fe",
-        "last_reported": 1690882555,
+        "last_reported": 1690884475,
         "current_range_meters": 44000,
         "lat": 52.423108,
         "lon": 10.729214,
@@ -4878,7 +4892,7 @@
       },
       {
         "bike_id": "854080c7-3b3a-4b8d-b9ac-6497861a7fe2",
-        "last_reported": 1690882883,
+        "last_reported": 1690884563,
         "current_range_meters": 27000,
         "lat": 52.424577,
         "lon": 10.722452,
@@ -4920,7 +4934,7 @@
       },
       {
         "bike_id": "5fefba57-ac1d-44d6-98f6-9d64dc0ad942",
-        "last_reported": 1690882759,
+        "last_reported": 1690884439,
         "current_range_meters": 46000,
         "lat": 52.412784,
         "lon": 10.787391,
@@ -4949,7 +4963,7 @@
       {
         "bike_id": "e7b5cb99-f4fd-4345-a450-9920c3fa21f2",
         "last_reported": 1690884015,
-        "current_range_meters": 40000,
+        "current_range_meters": 41000,
         "lat": 52.400819,
         "lon": 10.752893,
         "is_reserved": false,
@@ -4962,10 +4976,10 @@
       },
       {
         "bike_id": "7d2bbacf-d502-442f-99e4-40750a28e9be",
-        "last_reported": 1690884233,
+        "last_reported": 1690884474,
         "current_range_meters": 8000,
-        "lat": 52.394119,
-        "lon": 10.755946,
+        "lat": 52.394114,
+        "lon": 10.755957,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5018,7 +5032,7 @@
       },
       {
         "bike_id": "2f3c25c9-1ff5-4cbf-8355-883d21f42e04",
-        "last_reported": 1690883832,
+        "last_reported": 1690884552,
         "current_range_meters": 31000,
         "lat": 52.409385,
         "lon": 10.737045,
@@ -5046,10 +5060,10 @@
       },
       {
         "bike_id": "1fd99af7-034c-44b3-a462-6b4f1d4092ba",
-        "last_reported": 1690884290,
+        "last_reported": 1690884523,
         "current_range_meters": 37000,
-        "lat": 52.424677,
-        "lon": 10.744735,
+        "lat": 52.424589,
+        "lon": 10.744768,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5102,7 +5116,7 @@
       },
       {
         "bike_id": "1faa89c0-733e-43ab-8440-355965607f7d",
-        "last_reported": 1690882627,
+        "last_reported": 1690884547,
         "current_range_meters": 19000,
         "lat": 52.447516,
         "lon": 10.774649,
@@ -5116,7 +5130,7 @@
       },
       {
         "bike_id": "183256db-8c99-4222-ba85-7980e5a17f7f",
-        "last_reported": 1690882837,
+        "last_reported": 1690884517,
         "current_range_meters": 46000,
         "lat": 52.418606,
         "lon": 10.726738,
@@ -5214,7 +5228,7 @@
       },
       {
         "bike_id": "716b95c7-eef1-4f76-9819-02ce66f58844",
-        "last_reported": 1690882901,
+        "last_reported": 1690884582,
         "current_range_meters": 8000,
         "lat": 52.4287,
         "lon": 10.787442,
@@ -5256,7 +5270,7 @@
       },
       {
         "bike_id": "2dabfb57-883f-4d97-bb8e-fcf2c60d5e51",
-        "last_reported": 1690884236,
+        "last_reported": 1690884475,
         "current_range_meters": 8000,
         "lat": 52.396782,
         "lon": 10.750556,
@@ -5270,7 +5284,7 @@
       },
       {
         "bike_id": "39c91397-666a-4585-8bcc-b2c323625749",
-        "last_reported": 1690882553,
+        "last_reported": 1690884474,
         "current_range_meters": 17000,
         "lat": 52.427998,
         "lon": 10.790422,
@@ -5326,7 +5340,7 @@
       },
       {
         "bike_id": "15531680-1dcc-4791-b157-0e0f87a5b1e6",
-        "last_reported": 1690882609,
+        "last_reported": 1690884529,
         "current_range_meters": 32000,
         "lat": 52.421927,
         "lon": 10.790564,
@@ -5340,7 +5354,7 @@
       },
       {
         "bike_id": "af482fd0-9e92-48e1-826e-427474e17e41",
-        "last_reported": 1690882466,
+        "last_reported": 1690884385,
         "current_range_meters": 18000,
         "lat": 52.419499,
         "lon": 10.800666,
@@ -5382,7 +5396,7 @@
       },
       {
         "bike_id": "30e065c7-0d77-43c9-889c-51b275e1977b",
-        "last_reported": 1690882489,
+        "last_reported": 1690884410,
         "current_range_meters": 21000,
         "lat": 52.425476,
         "lon": 10.790577,
@@ -5493,22 +5507,8 @@
         }
       },
       {
-        "bike_id": "c89ed6ee-374c-4809-88b3-4ac60df39b56",
-        "last_reported": 1690884057,
-        "current_range_meters": 12000,
-        "lat": 52.42719,
-        "lon": 10.804562,
-        "is_reserved": false,
-        "is_disabled": false,
-        "vehicle_type_id": "okai_escooter",
-        "rental_uris": {
-          "android": "https://www.example.com/app?bike_id=c89ed6ee-374c-4809-88b3-4ac60df39b56&platform=android&",
-          "ios": "https://www.example.com/app?bike_id=c89ed6ee-374c-4809-88b3-4ac60df39b56&platform=ios"
-        }
-      },
-      {
         "bike_id": "51521e9b-0e19-47a6-ab4d-f9f3d4ee6f0f",
-        "last_reported": 1690882221,
+        "last_reported": 1690884380,
         "current_range_meters": 12000,
         "lat": 52.409206,
         "lon": 10.760416,
@@ -5648,10 +5648,10 @@
       },
       {
         "bike_id": "1f2eec3e-01a2-4592-b1f9-c8aee8daf31b",
-        "last_reported": 1690884282,
+        "last_reported": 1690884522,
         "current_range_meters": 21000,
-        "lat": 52.428241,
-        "lon": 10.775007,
+        "lat": 52.428249,
+        "lon": 10.77506,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5662,7 +5662,7 @@
       },
       {
         "bike_id": "241bf2fb-82a7-431c-b3af-5fae4945a209",
-        "last_reported": 1690884228,
+        "last_reported": 1690884466,
         "current_range_meters": 26000,
         "lat": 52.442717,
         "lon": 10.833825,
@@ -5676,7 +5676,7 @@
       },
       {
         "bike_id": "643fbdd2-97a7-415e-99ec-ab72801cdea0",
-        "last_reported": 1690882476,
+        "last_reported": 1690884396,
         "current_range_meters": 26000,
         "lat": 52.421537,
         "lon": 10.753252,
@@ -5686,20 +5686,6 @@
         "rental_uris": {
           "android": "https://www.example.com/app?bike_id=643fbdd2-97a7-415e-99ec-ab72801cdea0&platform=android&",
           "ios": "https://www.example.com/app?bike_id=643fbdd2-97a7-415e-99ec-ab72801cdea0&platform=ios"
-        }
-      },
-      {
-        "bike_id": "ae6e8e2b-8b9f-4e81-8948-1bac0a5c1608",
-        "last_reported": 1690884276,
-        "current_range_meters": 22000,
-        "lat": 52.420399,
-        "lon": 10.785567,
-        "is_reserved": false,
-        "is_disabled": false,
-        "vehicle_type_id": "okai_escooter",
-        "rental_uris": {
-          "android": "https://www.example.com/app?bike_id=ae6e8e2b-8b9f-4e81-8948-1bac0a5c1608&platform=android&",
-          "ios": "https://www.example.com/app?bike_id=ae6e8e2b-8b9f-4e81-8948-1bac0a5c1608&platform=ios"
         }
       },
       {
@@ -5732,10 +5718,10 @@
       },
       {
         "bike_id": "5e0561c0-6bd1-4804-a75b-1a4eb5c63659",
-        "last_reported": 1690884128,
+        "last_reported": 1690884608,
         "current_range_meters": 16000,
-        "lat": 52.401207,
-        "lon": 10.75223,
+        "lat": 52.401205,
+        "lon": 10.752285,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5774,10 +5760,10 @@
       },
       {
         "bike_id": "b01e21ef-7c98-423b-9228-3890b2aa966b",
-        "last_reported": 1690883895,
+        "last_reported": 1690884376,
         "current_range_meters": 29000,
-        "lat": 52.431347,
-        "lon": 10.805021,
+        "lat": 52.431374,
+        "lon": 10.805078,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5802,7 +5788,7 @@
       },
       {
         "bike_id": "066174ce-b885-46f9-bd81-1032ad5ba973",
-        "last_reported": 1690882667,
+        "last_reported": 1690884588,
         "current_range_meters": 25000,
         "lat": 52.421186,
         "lon": 10.682107,
@@ -5816,10 +5802,10 @@
       },
       {
         "bike_id": "62df48ba-bfc6-47ea-a8c2-9c985ef3f48c",
-        "last_reported": 1690884250,
+        "last_reported": 1690884490,
         "current_range_meters": 46000,
-        "lat": 52.436823,
-        "lon": 10.79939,
+        "lat": 52.43678,
+        "lon": 10.799329,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -5858,7 +5844,7 @@
       },
       {
         "bike_id": "64e15e7b-e12b-4e12-ad85-f96fcd85b380",
-        "last_reported": 1690882577,
+        "last_reported": 1690884497,
         "current_range_meters": 13000,
         "lat": 52.416925,
         "lon": 10.803754,
@@ -5872,7 +5858,7 @@
       },
       {
         "bike_id": "17c68e4b-5dce-4113-988d-43acd8e5d4f0",
-        "last_reported": 1690882635,
+        "last_reported": 1690884556,
         "current_range_meters": 27000,
         "lat": 52.428035,
         "lon": 10.792314,
@@ -5942,7 +5928,7 @@
       },
       {
         "bike_id": "7a117870-08ad-4e1c-91e7-6c2b3e440d3e",
-        "last_reported": 1690884132,
+        "last_reported": 1690884372,
         "current_range_meters": 25000,
         "lat": 52.42115,
         "lon": 10.7855,
@@ -5970,10 +5956,10 @@
       },
       {
         "bike_id": "ac521bf4-1192-4673-b4b4-021be5c28392",
-        "last_reported": 1690884265,
+        "last_reported": 1690884505,
         "current_range_meters": 22000,
-        "lat": 52.413128,
-        "lon": 10.84259,
+        "lat": 52.413227,
+        "lon": 10.842459,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -6012,7 +5998,7 @@
       },
       {
         "bike_id": "9f019cc7-7815-4394-9985-788cc0fbfe85",
-        "last_reported": 1690884249,
+        "last_reported": 1690884490,
         "current_range_meters": 39000,
         "lat": 52.408115,
         "lon": 10.754358,
@@ -6153,7 +6139,7 @@
       {
         "bike_id": "71614afa-34f5-4d6e-8fe2-80ab276f1686",
         "last_reported": 1690883592,
-        "current_range_meters": 23000,
+        "current_range_meters": 22000,
         "lat": 52.404879,
         "lon": 10.742964,
         "is_reserved": false,
@@ -6166,7 +6152,7 @@
       },
       {
         "bike_id": "54768a16-edc6-48eb-be72-40182df80667",
-        "last_reported": 1690884141,
+        "last_reported": 1690884382,
         "current_range_meters": 27000,
         "lat": 52.421289,
         "lon": 10.811133,
@@ -6194,7 +6180,7 @@
       },
       {
         "bike_id": "e37b37c0-e240-4451-b626-636430a6b440",
-        "last_reported": 1690882159,
+        "last_reported": 1690884319,
         "current_range_meters": 21000,
         "lat": 52.453282,
         "lon": 10.811796,
@@ -6250,10 +6236,10 @@
       },
       {
         "bike_id": "7a13adb3-c8da-4335-8d45-d088e62631c4",
-        "last_reported": 1690884105,
+        "last_reported": 1690884585,
         "current_range_meters": 33000,
-        "lat": 52.398188,
-        "lon": 10.752306,
+        "lat": 52.39821,
+        "lon": 10.752433,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -6264,7 +6250,7 @@
       },
       {
         "bike_id": "0a6ec298-41f9-4ecc-ba17-0ae2eb002eaf",
-        "last_reported": 1690882395,
+        "last_reported": 1690884315,
         "current_range_meters": 33000,
         "lat": 52.447036,
         "lon": 10.814359,
@@ -6502,7 +6488,7 @@
       },
       {
         "bike_id": "78dd6b91-74ed-4f89-a78b-0d55629f72e0",
-        "last_reported": 1690882842,
+        "last_reported": 1690884522,
         "current_range_meters": 39000,
         "lat": 52.42487,
         "lon": 10.744888,
@@ -6544,7 +6530,7 @@
       },
       {
         "bike_id": "0bc63947-8c31-4820-baec-a56f0ca0db31",
-        "last_reported": 1690882743,
+        "last_reported": 1690884423,
         "current_range_meters": 9000,
         "lat": 52.427291,
         "lon": 10.788176,
@@ -6558,7 +6544,7 @@
       },
       {
         "bike_id": "56432d7f-8d9f-4cd7-840b-87530d093fe5",
-        "last_reported": 1690882434,
+        "last_reported": 1690884355,
         "current_range_meters": 11000,
         "lat": 52.400901,
         "lon": 10.753313,
@@ -6698,10 +6684,10 @@
       },
       {
         "bike_id": "43a469fd-dfab-4348-80e8-75f2195e1152",
-        "last_reported": 1690883564,
+        "last_reported": 1690884530,
         "current_range_meters": 31000,
-        "lat": 52.445915,
-        "lon": 10.813224,
+        "lat": 52.444669,
+        "lon": 10.809716,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -6726,7 +6712,7 @@
       },
       {
         "bike_id": "cdbaa3a9-4f18-40c7-8f78-b548e54f88ed",
-        "last_reported": 1690882788,
+        "last_reported": 1690884469,
         "current_range_meters": 8000,
         "lat": 52.400293,
         "lon": 10.744747,
@@ -6796,10 +6782,10 @@
       },
       {
         "bike_id": "6d74bb7a-763a-40e7-a4ed-28f1b34e978d",
-        "last_reported": 1690884244,
+        "last_reported": 1690884484,
         "current_range_meters": 46000,
-        "lat": 52.422479,
-        "lon": 10.79947,
+        "lat": 52.422521,
+        "lon": 10.799494,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -6950,7 +6936,7 @@
       },
       {
         "bike_id": "691105fb-aefa-443a-b7ab-89e1f115ff98",
-        "last_reported": 1690884087,
+        "last_reported": 1690884567,
         "current_range_meters": 14000,
         "lat": 52.416634,
         "lon": 10.789007,
@@ -7006,7 +6992,7 @@
       },
       {
         "bike_id": "9386a8a4-3b10-4b3d-bbc5-b9c2d446e271",
-        "last_reported": 1690882747,
+        "last_reported": 1690884428,
         "current_range_meters": 26000,
         "lat": 52.421907,
         "lon": 10.790532,
@@ -7048,7 +7034,7 @@
       },
       {
         "bike_id": "17abeae7-2bcb-4ba8-accf-5b2adb603281",
-        "last_reported": 1690882631,
+        "last_reported": 1690884551,
         "current_range_meters": 20000,
         "lat": 52.425485,
         "lon": 10.820625,
@@ -7258,7 +7244,7 @@
       },
       {
         "bike_id": "90b204c6-5b6f-498c-826d-786cf1906ca9",
-        "last_reported": 1690884123,
+        "last_reported": 1690884364,
         "current_range_meters": 36000,
         "lat": 52.427935,
         "lon": 10.785762,
@@ -7272,7 +7258,7 @@
       },
       {
         "bike_id": "156d2387-9a2e-491f-943d-d71fd7ef509d",
-        "last_reported": 1690883391,
+        "last_reported": 1690884352,
         "current_range_meters": 11000,
         "lat": 52.42468,
         "lon": 10.744578,
@@ -7370,10 +7356,10 @@
       },
       {
         "bike_id": "6ffee1fb-fcc5-4b5d-86ab-826d0f76ded1",
-        "last_reported": 1690873472,
+        "last_reported": 1690884489,
         "current_range_meters": 40000,
-        "lat": 52.426731,
-        "lon": 10.78182,
+        "lat": 52.425566,
+        "lon": 10.789371,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -7384,7 +7370,7 @@
       },
       {
         "bike_id": "f1288a71-c18c-4aa4-adb5-ffabab7db707",
-        "last_reported": 1690883854,
+        "last_reported": 1690884575,
         "current_range_meters": 26000,
         "lat": 52.402393,
         "lon": 10.741357,
@@ -7398,7 +7384,7 @@
       },
       {
         "bike_id": "c381568d-8071-4680-af5c-c47baae43db0",
-        "last_reported": 1690882422,
+        "last_reported": 1690884582,
         "current_range_meters": 17000,
         "lat": 52.411987,
         "lon": 10.769339,
@@ -7441,7 +7427,7 @@
       {
         "bike_id": "66e3c05c-c794-480d-99d2-a6010eb8a1a0",
         "last_reported": 1690884235,
-        "current_range_meters": 21000,
+        "current_range_meters": 19000,
         "lat": 52.444063,
         "lon": 10.804613,
         "is_reserved": false,
@@ -7482,7 +7468,7 @@
       },
       {
         "bike_id": "17d58d98-1d92-4e3f-afd3-d6404118a3fe",
-        "last_reported": 1690882370,
+        "last_reported": 1690884530,
         "current_range_meters": 31000,
         "lat": 52.420638,
         "lon": 10.781202,
@@ -7496,7 +7482,7 @@
       },
       {
         "bike_id": "36f17df9-958b-463c-b975-ac9b418c7bed",
-        "last_reported": 1690882983,
+        "last_reported": 1690884422,
         "current_range_meters": 36000,
         "lat": 52.4429,
         "lon": 10.836907,
@@ -7552,7 +7538,7 @@
       },
       {
         "bike_id": "726a3f6e-2ce1-462d-87a0-4023e73b40ae",
-        "last_reported": 1690882259,
+        "last_reported": 1690884419,
         "current_range_meters": 33000,
         "lat": 52.412697,
         "lon": 10.772027,
@@ -7580,7 +7566,7 @@
       },
       {
         "bike_id": "256145ed-b070-40a9-894e-97d723cfcc17",
-        "last_reported": 1690882235,
+        "last_reported": 1690884395,
         "current_range_meters": 22000,
         "lat": 52.412676,
         "lon": 10.7721,
@@ -7636,7 +7622,7 @@
       },
       {
         "bike_id": "3b72a8a8-2608-4438-bda9-0de6a30f4e3b",
-        "last_reported": 1690882403,
+        "last_reported": 1690884323,
         "current_range_meters": 24000,
         "lat": 52.398781,
         "lon": 10.75346,
@@ -7650,7 +7636,7 @@
       },
       {
         "bike_id": "bea70b06-acc5-46b9-beca-a7b54c3b4468",
-        "last_reported": 1690882234,
+        "last_reported": 1690884394,
         "current_range_meters": 28000,
         "lat": 52.424949,
         "lon": 10.792621,
@@ -7706,10 +7692,10 @@
       },
       {
         "bike_id": "5c29c489-3586-42d9-b8db-cb9272a080d2",
-        "last_reported": 1690884007,
+        "last_reported": 1690884487,
         "current_range_meters": 8000,
-        "lat": 52.422499,
-        "lon": 10.799256,
+        "lat": 52.422516,
+        "lon": 10.799266,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -7818,7 +7804,7 @@
       },
       {
         "bike_id": "267cf072-9bcf-443e-be25-8ca759fdcd76",
-        "last_reported": 1690882633,
+        "last_reported": 1690884313,
         "current_range_meters": 7000,
         "lat": 52.445595,
         "lon": 10.839824,
@@ -7832,7 +7818,7 @@
       },
       {
         "bike_id": "7925c111-0a6d-4c2a-b66b-f95434fcc55b",
-        "last_reported": 1690883075,
+        "last_reported": 1690884516,
         "current_range_meters": 9000,
         "lat": 52.416283,
         "lon": 10.749214,
@@ -7972,7 +7958,7 @@
       },
       {
         "bike_id": "24cff46b-f45e-4cf7-ae2d-72b679bb3945",
-        "last_reported": 1690884205,
+        "last_reported": 1690884445,
         "current_range_meters": 28000,
         "lat": 52.427425,
         "lon": 10.795305,
@@ -8028,7 +8014,7 @@
       },
       {
         "bike_id": "c8e8837f-6447-4208-87aa-d96c3f98c8fe",
-        "last_reported": 1690882606,
+        "last_reported": 1690884526,
         "current_range_meters": 13000,
         "lat": 52.452666,
         "lon": 10.853225,
@@ -8042,7 +8028,7 @@
       },
       {
         "bike_id": "c805c4b0-334d-4840-8079-3621d169d1b9",
-        "last_reported": 1690883165,
+        "last_reported": 1690884605,
         "current_range_meters": 46000,
         "lat": 52.418423,
         "lon": 10.801729,
@@ -8098,10 +8084,10 @@
       },
       {
         "bike_id": "6d3c5cc2-2039-4a43-9e51-6ca975bf9e82",
-        "last_reported": 1690884228,
+        "last_reported": 1690884468,
         "current_range_meters": 22000,
-        "lat": 52.426117,
-        "lon": 10.782791,
+        "lat": 52.426126,
+        "lon": 10.782754,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -8168,7 +8154,7 @@
       },
       {
         "bike_id": "d0f54daa-21bd-4e09-a381-1c9a57027912",
-        "last_reported": 1690883910,
+        "last_reported": 1690884389,
         "current_range_meters": 24000,
         "lat": 52.404956,
         "lon": 10.741919,
@@ -8210,7 +8196,7 @@
       },
       {
         "bike_id": "3a0d60a2-aaac-4ac3-961c-6e3b9d45d1f4",
-        "last_reported": 1690882399,
+        "last_reported": 1690884320,
         "current_range_meters": 18000,
         "lat": 52.46072,
         "lon": 10.843567,
@@ -8224,7 +8210,7 @@
       },
       {
         "bike_id": "0389ddce-8f14-4707-853e-f8653ac03166",
-        "last_reported": 1690882673,
+        "last_reported": 1690884353,
         "current_range_meters": 44000,
         "lat": 52.398125,
         "lon": 10.757694,
@@ -8378,7 +8364,7 @@
       },
       {
         "bike_id": "06608b03-831a-4ad8-b031-593e038aeab8",
-        "last_reported": 1690882481,
+        "last_reported": 1690884400,
         "current_range_meters": 36000,
         "lat": 52.412845,
         "lon": 10.785774,
@@ -8462,7 +8448,7 @@
       },
       {
         "bike_id": "095a0fff-014b-4c16-8d46-69dbff7318e0",
-        "last_reported": 1690882875,
+        "last_reported": 1690884554,
         "current_range_meters": 40000,
         "lat": 52.421219,
         "lon": 10.72243,
@@ -8476,7 +8462,7 @@
       },
       {
         "bike_id": "a29a69bc-f7af-402b-9dc6-8cc2054f9ffd",
-        "last_reported": 1690883886,
+        "last_reported": 1690884607,
         "current_range_meters": 12000,
         "lat": 52.424783,
         "lon": 10.797122,
@@ -8518,7 +8504,7 @@
       },
       {
         "bike_id": "0c9ca118-d864-4053-9723-9f8165b1b94d",
-        "last_reported": 1690882741,
+        "last_reported": 1690884421,
         "current_range_meters": 45000,
         "lat": 52.427653,
         "lon": 10.792082,
@@ -8560,7 +8546,7 @@
       },
       {
         "bike_id": "28372ebe-9ae6-4dcf-a323-2a436e0f9de2",
-        "last_reported": 1690882658,
+        "last_reported": 1690884338,
         "current_range_meters": 41000,
         "lat": 52.423739,
         "lon": 10.753557,
@@ -8658,7 +8644,7 @@
       },
       {
         "bike_id": "ee1242c1-09ae-467b-9c85-94a5422f5787",
-        "last_reported": 1690882367,
+        "last_reported": 1690884527,
         "current_range_meters": 31000,
         "lat": 52.428259,
         "lon": 10.778049,
@@ -8714,7 +8700,7 @@
       },
       {
         "bike_id": "3978e745-caa0-4867-89cd-26cbac68313b",
-        "last_reported": 1690882669,
+        "last_reported": 1690884349,
         "current_range_meters": 44000,
         "lat": 52.45137,
         "lon": 10.784179,
@@ -8742,7 +8728,7 @@
       },
       {
         "bike_id": "60f4d9e2-66af-471b-a03a-48766a83738f",
-        "last_reported": 1690882809,
+        "last_reported": 1690884489,
         "current_range_meters": 14000,
         "lat": 52.40627,
         "lon": 10.741397,
@@ -8826,10 +8812,10 @@
       },
       {
         "bike_id": "bfd1c88c-e6a2-4b9f-a4ea-2a2446cc1a2c",
-        "last_reported": 1690883358,
+        "last_reported": 1690884581,
         "current_range_meters": 45000,
-        "lat": 52.427454,
-        "lon": 10.776287,
+        "lat": 52.427558,
+        "lon": 10.776386,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -8924,7 +8910,7 @@
       },
       {
         "bike_id": "28e5acc5-8577-4ab1-a756-c34958eea26a",
-        "last_reported": 1690883127,
+        "last_reported": 1690884566,
         "current_range_meters": 42000,
         "lat": 52.398911,
         "lon": 10.740753,
@@ -8952,10 +8938,10 @@
       },
       {
         "bike_id": "03fd4ecf-3d7a-4ed7-ab79-c2d6bed57b94",
-        "last_reported": 1690884307,
+        "last_reported": 1690884547,
         "current_range_meters": 4000,
-        "lat": 52.418575,
-        "lon": 10.784341,
+        "lat": 52.418578,
+        "lon": 10.784335,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -8994,7 +8980,7 @@
       },
       {
         "bike_id": "f516e5d5-1748-4921-a283-3273b078c79b",
-        "last_reported": 1690882756,
+        "last_reported": 1690884437,
         "current_range_meters": 32000,
         "lat": 52.416844,
         "lon": 10.807259,
@@ -9064,7 +9050,7 @@
       },
       {
         "bike_id": "8963b7c8-728d-429e-8c6d-e616120045e8",
-        "last_reported": 1690882837,
+        "last_reported": 1690884516,
         "current_range_meters": 23000,
         "lat": 52.435026,
         "lon": 10.810268,
@@ -9204,7 +9190,7 @@
       },
       {
         "bike_id": "460f54a5-0676-4b76-9178-95db2840c2a2",
-        "last_reported": 1690882392,
+        "last_reported": 1690884553,
         "current_range_meters": 8000,
         "lat": 52.428456,
         "lon": 10.823844,
@@ -9246,7 +9232,7 @@
       },
       {
         "bike_id": "d122ed77-2b45-4168-925d-6688a6fcc55a",
-        "last_reported": 1690884236,
+        "last_reported": 1690884469,
         "current_range_meters": 11000,
         "lat": 52.452663,
         "lon": 10.851106,
@@ -9260,7 +9246,7 @@
       },
       {
         "bike_id": "b99253a8-e843-42af-b129-e6edd502738b",
-        "last_reported": 1690882401,
+        "last_reported": 1690884321,
         "current_range_meters": 1000,
         "lat": 52.423341,
         "lon": 10.720441,
@@ -9344,7 +9330,7 @@
       },
       {
         "bike_id": "591d02ea-27d4-4bcb-9d74-136df7063183",
-        "last_reported": 1690882615,
+        "last_reported": 1690884536,
         "current_range_meters": 19000,
         "lat": 52.421416,
         "lon": 10.701445,
@@ -9484,7 +9470,7 @@
       },
       {
         "bike_id": "f90ff214-4a45-4cbd-ba7b-772b60950dbb",
-        "last_reported": 1690882396,
+        "last_reported": 1690884316,
         "current_range_meters": 32000,
         "lat": 52.415951,
         "lon": 10.836848,
@@ -9512,7 +9498,7 @@
       },
       {
         "bike_id": "3c053af3-6a51-40a0-bba4-9220bbf66637",
-        "last_reported": 1690882654,
+        "last_reported": 1690884574,
         "current_range_meters": 33000,
         "lat": 52.405035,
         "lon": 10.742253,
@@ -9568,7 +9554,7 @@
       },
       {
         "bike_id": "80b7a556-0041-409c-b1cb-fab6c3b95d73",
-        "last_reported": 1690882642,
+        "last_reported": 1690884561,
         "current_range_meters": 42000,
         "lat": 52.428229,
         "lon": 10.774941,
@@ -9638,7 +9624,7 @@
       },
       {
         "bike_id": "115fa85d-2e76-400d-9ce8-4d50c8fe54e5",
-        "last_reported": 1690882303,
+        "last_reported": 1690884460,
         "current_range_meters": 22000,
         "lat": 52.409914,
         "lon": 10.772891,
@@ -9652,10 +9638,10 @@
       },
       {
         "bike_id": "c2eb86d8-b514-4320-b976-ed2ec6f73130",
-        "last_reported": 1690884160,
+        "last_reported": 1690884400,
         "current_range_meters": 46000,
-        "lat": 52.437197,
-        "lon": 10.844836,
+        "lat": 52.437133,
+        "lon": 10.844815,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -9694,7 +9680,7 @@
       },
       {
         "bike_id": "0c9faea9-e58e-417b-b433-81d02d160a21",
-        "last_reported": 1690882730,
+        "last_reported": 1690884411,
         "current_range_meters": 43000,
         "lat": 52.420525,
         "lon": 10.803738,
@@ -9708,10 +9694,10 @@
       },
       {
         "bike_id": "ad20e3da-cfb9-45dd-9680-77426f24595f",
-        "last_reported": 1690884305,
+        "last_reported": 1690884545,
         "current_range_meters": 42000,
-        "lat": 52.421906,
-        "lon": 10.761053,
+        "lat": 52.421869,
+        "lon": 10.76096,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -9750,7 +9736,7 @@
       },
       {
         "bike_id": "22053e3d-5896-47c2-8839-6702a0cbf859",
-        "last_reported": 1690882440,
+        "last_reported": 1690884601,
         "current_range_meters": 22000,
         "lat": 52.428027,
         "lon": 10.818061,
@@ -9764,7 +9750,7 @@
       },
       {
         "bike_id": "a9eca118-9646-4866-b6f2-7f9a093ac41f",
-        "last_reported": 1690882542,
+        "last_reported": 1690884463,
         "current_range_meters": 10000,
         "lat": 52.456029,
         "lon": 10.793146,
@@ -9806,7 +9792,7 @@
       },
       {
         "bike_id": "b938b651-21d8-4941-a6a1-6365ea648058",
-        "last_reported": 1690882957,
+        "last_reported": 1690884397,
         "current_range_meters": 35000,
         "lat": 52.412112,
         "lon": 10.765821,
@@ -9918,7 +9904,7 @@
       },
       {
         "bike_id": "bf253032-646b-4cce-993c-dda68116eac8",
-        "last_reported": 1690882217,
+        "last_reported": 1690884376,
         "current_range_meters": 15000,
         "lat": 52.417223,
         "lon": 10.831759,
@@ -10030,7 +10016,7 @@
       },
       {
         "bike_id": "cae79b32-b94b-4861-ad39-3ac6567d2302",
-        "last_reported": 1690882694,
+        "last_reported": 1690884374,
         "current_range_meters": 44000,
         "lat": 52.425355,
         "lon": 10.781959,
@@ -10058,10 +10044,10 @@
       },
       {
         "bike_id": "29000197-6a09-4c12-9cdb-b9f847f67203",
-        "last_reported": 1690884224,
+        "last_reported": 1690884464,
         "current_range_meters": 22000,
-        "lat": 52.419792,
-        "lon": 10.808471,
+        "lat": 52.419775,
+        "lon": 10.808409,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -10086,7 +10072,7 @@
       },
       {
         "bike_id": "3de4238f-f2e9-4783-bcbe-b434f31f7047",
-        "last_reported": 1690882607,
+        "last_reported": 1690884527,
         "current_range_meters": 32000,
         "lat": 52.447547,
         "lon": 10.774626,
@@ -10170,7 +10156,7 @@
       },
       {
         "bike_id": "fdf3be55-0549-48d3-a93a-f0b814979fd1",
-        "last_reported": 1690882530,
+        "last_reported": 1690884450,
         "current_range_meters": 34000,
         "lat": 52.423381,
         "lon": 10.753608,
@@ -10255,7 +10241,7 @@
       {
         "bike_id": "8818d41e-144e-4d53-88ac-c20c55e3e9ac",
         "last_reported": 1690883619,
-        "current_range_meters": 44000,
+        "current_range_meters": 43000,
         "lat": 52.428305,
         "lon": 10.77566,
         "is_reserved": false,
@@ -10352,7 +10338,7 @@
       },
       {
         "bike_id": "6cc2b543-57d7-487d-988f-c39cb4a1c6cb",
-        "last_reported": 1690882552,
+        "last_reported": 1690884472,
         "current_range_meters": 25000,
         "lat": 52.416175,
         "lon": 10.732483,
@@ -10380,10 +10366,10 @@
       },
       {
         "bike_id": "1457b45a-cecd-4ee6-b221-7a49c304fec1",
-        "last_reported": 1690884180,
+        "last_reported": 1690884420,
         "current_range_meters": 41000,
-        "lat": 52.413093,
-        "lon": 10.772759,
+        "lat": 52.413094,
+        "lon": 10.772753,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -10688,10 +10674,10 @@
       },
       {
         "bike_id": "803b1fc9-0b6a-4614-899b-be49d68bc977",
-        "last_reported": 1690884256,
+        "last_reported": 1690884496,
         "current_range_meters": 46000,
-        "lat": 52.427306,
-        "lon": 10.81162,
+        "lat": 52.427294,
+        "lon": 10.811679,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -10828,7 +10814,7 @@
       },
       {
         "bike_id": "2058148e-040b-4f22-955a-0336bc7efe08",
-        "last_reported": 1690882171,
+        "last_reported": 1690884332,
         "current_range_meters": 40000,
         "lat": 52.447115,
         "lon": 10.834208,
@@ -10941,7 +10927,7 @@
       {
         "bike_id": "94a2e81c-4141-4884-b4cf-212d47a0cb76",
         "last_reported": 1690884006,
-        "current_range_meters": 45000,
+        "current_range_meters": 44000,
         "lat": 52.421491,
         "lon": 10.787295,
         "is_reserved": false,
@@ -11052,10 +11038,10 @@
       },
       {
         "bike_id": "deb5e0b0-c807-4ce0-b99d-386548f4ca71",
-        "last_reported": 1690884230,
+        "last_reported": 1690884469,
         "current_range_meters": 21000,
-        "lat": 52.413065,
-        "lon": 10.772712,
+        "lat": 52.413062,
+        "lon": 10.772709,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -11079,8 +11065,22 @@
         }
       },
       {
+        "bike_id": "f47964e8-18ae-4f7f-accf-9e85cac4c4f6",
+        "last_reported": 1690884259,
+        "current_range_meters": 40000,
+        "lat": 52.423422,
+        "lon": 10.797667,
+        "is_reserved": false,
+        "is_disabled": false,
+        "vehicle_type_id": "okai_escooter",
+        "rental_uris": {
+          "android": "https://www.example.com/app?bike_id=f47964e8-18ae-4f7f-accf-9e85cac4c4f6&platform=android&",
+          "ios": "https://www.example.com/app?bike_id=f47964e8-18ae-4f7f-accf-9e85cac4c4f6&platform=ios"
+        }
+      },
+      {
         "bike_id": "8bcf1125-0eaa-47d7-883a-6686035e684f",
-        "last_reported": 1690882530,
+        "last_reported": 1690884451,
         "current_range_meters": 46000,
         "lat": 52.387618,
         "lon": 10.747293,
@@ -11206,7 +11206,7 @@
       },
       {
         "bike_id": "f8f336b7-a410-4aa5-95f7-6e9b8f48454c",
-        "last_reported": 1690883612,
+        "last_reported": 1690884572,
         "current_range_meters": 32000,
         "lat": 52.45065,
         "lon": 10.805578,
@@ -11304,7 +11304,7 @@
       },
       {
         "bike_id": "60966bd1-7f04-4411-9a05-c4b837ade67c",
-        "last_reported": 1690884066,
+        "last_reported": 1690884546,
         "current_range_meters": 8000,
         "lat": 52.418444,
         "lon": 10.842729,
@@ -11360,7 +11360,7 @@
       },
       {
         "bike_id": "ff2b6efe-e144-4b65-86fb-809eaea68e7f",
-        "last_reported": 1690882723,
+        "last_reported": 1690884403,
         "current_range_meters": 31000,
         "lat": 52.427905,
         "lon": 10.789971,
@@ -11388,7 +11388,7 @@
       },
       {
         "bike_id": "28de0ade-7a2d-41d8-8726-0b17c94da569",
-        "last_reported": 1690882267,
+        "last_reported": 1690884427,
         "current_range_meters": 44000,
         "lat": 52.417047,
         "lon": 10.800834,
@@ -11416,10 +11416,10 @@
       },
       {
         "bike_id": "735190d1-4972-42f1-b076-871a416d77c8",
-        "last_reported": 1690884247,
+        "last_reported": 1690884487,
         "current_range_meters": 31000,
-        "lat": 52.4225,
-        "lon": 10.799235,
+        "lat": 52.422488,
+        "lon": 10.799105,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -11430,7 +11430,7 @@
       },
       {
         "bike_id": "426985e8-0cca-49b8-9d1a-0b37cc1dcd18",
-        "last_reported": 1690882379,
+        "last_reported": 1690884538,
         "current_range_meters": 46000,
         "lat": 52.420396,
         "lon": 10.783449,
@@ -11444,7 +11444,7 @@
       },
       {
         "bike_id": "6852b865-c93d-4c9b-805f-561cb82bb314",
-        "last_reported": 1690882886,
+        "last_reported": 1690884566,
         "current_range_meters": 46000,
         "lat": 52.407775,
         "lon": 10.754746,
@@ -11458,7 +11458,7 @@
       },
       {
         "bike_id": "8aa58181-dadc-40ae-afc2-970811719aad",
-        "last_reported": 1690882774,
+        "last_reported": 1690884454,
         "current_range_meters": 37000,
         "lat": 52.441456,
         "lon": 10.836707,
@@ -11500,7 +11500,7 @@
       },
       {
         "bike_id": "6a5b0601-2b81-4f49-bc8c-f1922935b49a",
-        "last_reported": 1690883540,
+        "last_reported": 1690884500,
         "current_range_meters": 13000,
         "lat": 52.408285,
         "lon": 10.759033,
@@ -11528,7 +11528,7 @@
       },
       {
         "bike_id": "4559ef3f-8a9a-4672-9ce1-0aaece5fe5e2",
-        "last_reported": 1690883623,
+        "last_reported": 1690884583,
         "current_range_meters": 17000,
         "lat": 52.424722,
         "lon": 10.744376,
@@ -11570,7 +11570,7 @@
       },
       {
         "bike_id": "e9d0c6c2-68d5-43ca-b4ea-76e5be89bbf1",
-        "last_reported": 1690882408,
+        "last_reported": 1690884329,
         "current_range_meters": 25000,
         "lat": 52.415453,
         "lon": 10.693598,
@@ -11584,10 +11584,10 @@
       },
       {
         "bike_id": "65f5597f-5a04-4f6f-bd84-4b5a0a60396a",
-        "last_reported": 1690884270,
+        "last_reported": 1690884510,
         "current_range_meters": 26000,
-        "lat": 52.401355,
-        "lon": 10.75244,
+        "lat": 52.401282,
+        "lon": 10.752419,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -11598,7 +11598,7 @@
       },
       {
         "bike_id": "53251f1d-d7aa-4b28-8c0c-9abbb1e53943",
-        "last_reported": 1690882393,
+        "last_reported": 1690884314,
         "current_range_meters": 10000,
         "lat": 52.424561,
         "lon": 10.722307,
@@ -11612,7 +11612,7 @@
       },
       {
         "bike_id": "0ebfafea-ef8c-4f28-b5d3-e2cdc3681116",
-        "last_reported": 1690884263,
+        "last_reported": 1690884503,
         "current_range_meters": 17000,
         "lat": 52.41829,
         "lon": 10.726476,
@@ -11654,10 +11654,10 @@
       },
       {
         "bike_id": "de419a86-6a73-46b9-9eb5-d789b1a9b71b",
-        "last_reported": 1690884115,
+        "last_reported": 1690884594,
         "current_range_meters": 39000,
-        "lat": 52.413587,
-        "lon": 10.761827,
+        "lat": 52.413601,
+        "lon": 10.761863,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -11668,7 +11668,7 @@
       },
       {
         "bike_id": "0f578889-5378-46e0-9a26-8bba78512882",
-        "last_reported": 1690884146,
+        "last_reported": 1690884386,
         "current_range_meters": 46000,
         "lat": 52.426238,
         "lon": 10.782802,
@@ -11724,7 +11724,7 @@
       },
       {
         "bike_id": "20358716-55bd-447a-9ac6-eced51372d2f",
-        "last_reported": 1690882319,
+        "last_reported": 1690884478,
         "current_range_meters": 25000,
         "lat": 52.453201,
         "lon": 10.790659,
@@ -11766,10 +11766,10 @@
       },
       {
         "bike_id": "dc051526-e0c0-4dfe-8e38-051a520f8ac9",
-        "last_reported": 1690884128,
+        "last_reported": 1690884607,
         "current_range_meters": 46000,
-        "lat": 52.420925,
-        "lon": 10.80926,
+        "lat": 52.420876,
+        "lon": 10.809285,
         "is_reserved": false,
         "is_disabled": false,
         "vehicle_type_id": "okai_escooter",
@@ -11794,7 +11794,7 @@
       },
       {
         "bike_id": "8a91fb57-529d-4634-bd95-50113569f849",
-        "last_reported": 1690883042,
+        "last_reported": 1690884482,
         "current_range_meters": 35000,
         "lat": 52.425158,
         "lon": 10.779949,
@@ -11822,7 +11822,7 @@
       },
       {
         "bike_id": "2d379d0b-658a-4ff0-8da8-1f910c70f5c5",
-        "last_reported": 1690882467,
+        "last_reported": 1690884389,
         "current_range_meters": 11000,
         "lat": 52.424923,
         "lon": 10.792627,
@@ -11836,7 +11836,7 @@
       },
       {
         "bike_id": "583de89a-b3ea-4b78-8f1f-997bb6c87b32",
-        "last_reported": 1690882605,
+        "last_reported": 1690884525,
         "current_range_meters": 30000,
         "lat": 52.437735,
         "lon": 10.843263,
@@ -11962,7 +11962,7 @@
       },
       {
         "bike_id": "ddc02f50-82a2-4dc8-8550-76dc1354a2bd",
-        "last_reported": 1690883910,
+        "last_reported": 1690884390,
         "current_range_meters": 31000,
         "lat": 52.410073,
         "lon": 10.766758,
